@@ -134,29 +134,10 @@ Full-stack B2B construction platform with real-time Microsoft Dynamics 365 sync,
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="./profile/stats.svg" alt="GitHub stats" />
-  <img height="170" src="./profile/top-langs.svg" alt="Top languages" />
-</p>
-
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shahzaibali1o1&theme=nord&border=14B8A6&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6&sideLabels=14B8A6&dates=D8DEE9" alt="GitHub streak" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="./profile/trophy.svg" alt="GitHub trophies" />
-</p>
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="./profile/activity-graph.svg" alt="Contribution activity graph" />
 </p>
 
 ---
