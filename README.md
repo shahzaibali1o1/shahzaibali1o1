@@ -19,7 +19,7 @@
 
 <!-- Profile Stats -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahzaibali1o1&label=Profile%20views&color=14B8A6&style=flat-square" alt="Profile views" />
+  <a><img src="https://komarev.com/ghpvc/?username=shahzaibali1o1&label=Profile%20views&color=14B8A6&style=flat-square" alt="Profile views" /></a>
   <a href="https://github.com/shahzaibali1o1?tab=followers">
     <img src="https://img.shields.io/github/followers/shahzaibali1o1?label=Followers&style=flat-square&color=14B8A6&logo=github" alt="GitHub followers" />
   </a>
@@ -137,8 +137,8 @@ Full-stack B2B construction platform with real-time Microsoft Dynamics 365 sync,
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shahzaibali1o1&show_icons=true&theme=nord&border_color=14B8A6&title_color=14B8A6&icon_color=14B8A6&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaibali1o1&layout=compact&theme=nord&border_color=14B8A6&title_color=14B8A6" alt="Top languages" />
+  <img height="170" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="170" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 ## 🔥 GitHub Streak
@@ -150,13 +150,13 @@ Full-stack B2B construction platform with real-time Microsoft Dynamics 365 sync,
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shahzaibali1o1&theme=nord&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub trophies" />
+  <img src="./profile/trophy.svg" alt="GitHub trophies" />
 </p>
 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahzaibali1o1&bg_color=2E3440&color=D8DEE9&line=14B8A6&point=88C0D0&area=true&area_color=14B8A6&hide_border=true" alt="Contribution activity graph" />
+  <img src="./profile/activity-graph.svg" alt="Contribution activity graph" />
 </p>
 
 ---
